@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/yourusername">
+<a href="https://github.com/ptnitesh0220-cyber">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://linkedin.com/in/yourlinkedin">
+<a href="https://www.linkedin.com/in/nitesh-raaja-pt-6095173a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:yourmail@gmail.com">
+<a href="ptnitesh0220@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
@@ -76,7 +76,7 @@ I enjoy building secure and scalable applications while continuously exploring m
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
 
 </p>
 
@@ -92,7 +92,7 @@ I enjoy building secure and scalable applications while continuously exploring m
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,linux,aws"/>
 
 </p>
 
@@ -197,10 +197,6 @@ Working on multiple software engineering and cyber security projects while activ
 
 # 📜 Certifications
 
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws)
-
 ### Oracle
 
 ![Oracle](https://img.shields.io/badge/Oracle-Java%20Programming-F80000?style=for-the-badge&logo=oracle)
@@ -239,21 +235,12 @@ Working on multiple software engineering and cyber security projects while activ
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ptnitesh0220-cyber&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ptnitesh0220-cyber&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ptnitesh0220-cyber&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
@@ -312,24 +299,6 @@ Open To:
 
 
 ---
-
-# 📬 Connect With Me
-
-<p align="center">
-
-<a href="25becy043@kahedu.edu.in">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nitesh-raaja-pt-6095173a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="ptnitesh0220-cyber">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
 
 ---
 
