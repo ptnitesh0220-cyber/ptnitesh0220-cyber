@@ -163,14 +163,6 @@ Enterprise Asset Management system designed for organizations to track and manag
 
 ---
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
-
 # 📈 Contribution Activity
 
 <p align="center">
@@ -214,8 +206,6 @@ Open To:
   - Collaborations
   - Hackathons
 
-
----
 
 ---
 
