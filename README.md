@@ -102,8 +102,6 @@ A smart recruitment platform that leverages AI to connect job seekers with suita
 
 </details>
 
----
-
 <details>
 <summary><b>📦 AssetFlow Platform</b></summary>
 
