@@ -73,8 +73,6 @@
 <img src="https://skillicons.dev/icons?i=github,vscode,linux,aws"/>
 </p>
 
----
-
 
 ---
 
@@ -132,10 +130,6 @@ Enterprise Asset Management system designed for organizations to track and manag
 
 ---
 
-
-
----
-
 # 💻 Coding Profiles
 
 <p align="center">
@@ -168,8 +162,6 @@ Enterprise Asset Management system designed for organizations to track and manag
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
-# 🏆 GitHub Trophies
 
 <p align="center">
 
