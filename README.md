@@ -317,15 +317,15 @@ Open To:
 
 <p align="center">
 
-<a href="mailto:yourmail@gmail.com">
+<a href="25becy043@kahedu.edu.in">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/yourlinkedin">
+<a href="https://www.linkedin.com/in/nitesh-raaja-pt-6095173a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="ptnitesh0220-cyber">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
