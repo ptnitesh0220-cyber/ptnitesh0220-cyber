@@ -36,30 +36,15 @@
 
 # 🚀 About Me
 
-yaml
-Name: Nitesh Raaja PT
-Education: B.E CSE (Cyber Security)
-University: Karpagam University, Coimbatore
-Role: Student | Developer | Security Enthusiast
-Interests:
-  - Cyber Security
-  - Full Stack Development
-  - Artificial Intelligence
-  - Cloud Computing
-
-
-I am a passionate Computer Science student specializing in *Cyber Security* with strong interests in *Software Engineering, AI, and Full Stack Development*.
-
-I enjoy building secure and scalable applications while continuously exploring modern technologies and solving real-world problems through innovation.
-
-### Open To
-
-- Software Engineering Internships
-- Cyber Security Internships
-- Open Source Contributions
-- Hackathons and Technical Collaborations
-- AI and Full Stack Projects
-
+- 👋 Hi, I'm Nitesh Raaja PT.
+- 🎓 2nd Year B.E. CSE (Cyber Security) student at Karpagam University, Coimbatore.
+- 💻 Passionate about Cyber Security, Full Stack Development, and AI.
+- 🌱 Currently learning React.js, Node.js, Ethical Hacking, and Cloud Computing.
+- 🚀 Interested in developing secure and innovative applications.
+- 🔭 Working on projects like AI-Powered Job Portal and AssetFlow.
+- 🛠️ Skilled in C, Java, Python, HTML, CSS, JavaScript, and GitHub.
+- 🎯 Aspiring to become a Cyber Security Engineer and Full Stack Developer.
+- 📚 Always eager to learn new technologies and participate in hackathons.
 ---
 
 # 💻 Tech Stack
@@ -98,15 +83,6 @@ I enjoy building secure and scalable applications while continuously exploring m
 
 ---
 
-# 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|-------------|----------|
-| Artificial Intelligence | Intermediate | AI-based application development |
-| Machine Learning | Beginner | Learning ML concepts and implementation |
-| NLP | Beginner | Resume analysis and recommendation systems |
-| Prompt Engineering | Intermediate | AI workflow optimization |
-| Data Analytics | Beginner | Data preprocessing and visualization |
 
 ---
 
@@ -164,36 +140,6 @@ Enterprise Asset Management system designed for organizations to track and manag
 
 ---
 
-# 💼 Experience
-
-### Student Developer
-*Karpagam University*  
-*2025 - Present*
-
-Working on multiple software engineering and cyber security projects while actively participating in hackathons and learning modern technologies.
-
-#### Scope of Work
-
-- Full Stack Web Development
-- AI Project Development
-- Git & GitHub Collaboration
-- Cyber Security Research
-- Technical Documentation
-
-*Skills:* React Node.js Python GitHub Cyber Security
-
----
-
-# 🏆 Achievements
-
-| Recognition | Details |
-|-------------|----------|
-| Hackathon Participant | Actively participating in innovation challenges |
-| Project Developer | Developed AI and Asset Management Projects |
-| Continuous Learner | Exploring AI, Security and Cloud Technologies |
-| Open Source Enthusiast | Building strong GitHub presence |
-
----
 
 # 📜 Certifications
 
