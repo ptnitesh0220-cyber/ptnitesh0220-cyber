@@ -52,33 +52,25 @@
 ## Languages
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript"/>
-
 </p>
 
 ## Frontend
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,react"/>
-
 </p>
 
 ## Backend & Database
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-
 </p>
 
 ## Cloud, DevOps & Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=github,vscode,linux,aws"/>
-
 </p>
 
 ---
@@ -141,19 +133,6 @@ Enterprise Asset Management system designed for organizations to track and manag
 ---
 
 
-# 📜 Certifications
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Java%20Programming-F80000?style=for-the-badge&logo=oracle)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Cyber%20Security-1BA0D7?style=for-the-badge&logo=cisco)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Technical%20Courses-8A2BE2?style=for-the-badge)
 
 ---
 
