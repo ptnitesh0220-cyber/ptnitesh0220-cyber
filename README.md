@@ -161,16 +161,6 @@ Enterprise Asset Management system designed for organizations to track and manag
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
